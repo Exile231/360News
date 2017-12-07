@@ -1,0 +1,85 @@
+.wrapper{
+	margin: 0 auto;
+}
+body{
+			padding-top: 70px;
+			background-color: #FCFBE3;
+			
+		}
+.jumbotron .size{
+			font-size: 1em;
+			font-weight:bold
+		}
+.jumbotron{
+	color: white;
+	background-color:#26292d;
+
+}
+p{
+			margin-top: 20px;
+			
+			font-size: 1.2em;
+
+		}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-bottom:-100px;
+    font-family: Georgia, Times, serif;
+  }
+
+.index-news{
+	width:100%;
+	padding: 80px 0px;
+	background-color: #ccc;
+	overflow:hidden;
+}
+.index-news article{
+	width:30%;
+		float: left;
+	margin: 0px 1%;
+}
+
+.newsimg{
+	width:100%;
+	height:250px;
+	background-color:#000;
+	background-size:100% 100%;
+}
+.index-news h3{
+	font-weight: 400;
+	font-family:Lato;
+	font-size:18px;
+	text-align:center;
+	padding-bottom:10px;
+	padding-top:10px;
+	color: #5991ea;
+}
+.index-news p{
+	font-weight: 400;
+	font-family:Lato;
+	font-size:14px;
+	text-align:left;
+	padding-bottom:10px;
+	color: #000;
+}
+.draymond{
+	background-image:url("http://www.slamonline.com/wp-content/uploads/2017/10/draymond_green_warriors_fucking_panic.jpg")
+}
+.federer{
+	background-image:url("https://i.eurosport.com/2017/03/16/2044079-42877076-640-360.jpg")
+}
+.phillie{
+	background-image:url("http://assets.nydailynews.com/polopoly_fs/1.3609373.1509734222!/img/httpImage/image.jpg_gen/derivatives/article_750/phillies-kapler-baseball.jpg")
+}
+.ancelotti{
+	background-image:url("https://i.guim.co.uk/img/media/fcfbd28c6177542d8c4aca3925205223f213cddf/32_568_1725_1035/master/1725.jpg?w=620&q=55&auto=format&usm=12&fit=max&s=eef21c12cb7a17b742368f9ad3156646");
+}
+.content p{
+	line-height: 30px;
+	font-family: "Open Sans", sans-serif;
+
+}

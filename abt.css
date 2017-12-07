@@ -1,0 +1,27 @@
+
+body {
+    padding-bottom: 40px;
+    color: #5a5a5a;
+    background: url('bg6.jpeg') no-repeat ;
+    background-size: cover;
+  }
+  
+  
+ 
+  .us .col-md-3 {
+    padding-top: 200px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .us h2 {
+    font-weight: normal;
+    color: white;
+  }
+  .us .col-md-3 p {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+  }
+  
+  
+ 
